@@ -1,4 +1,4 @@
-# recurrence-relation
+# recurrence-relation using transi
 
 like fibonacci series but not started with 0,1
 (can be started with any integer) 
